@@ -16,4 +16,6 @@ func main() {
 	fmt.Println("из мейн в другой мейн пулл реквест")
 
 	fmt.Println("main хуейн, чет не понимаю")
+	fmt.Println("мне кажется понял")
+
 }
