@@ -25,4 +25,6 @@ func main() {
 
 	fmt.Println("в любом случае не зря сел")
 
+	fmt.Println("titpfg")
+
 }
