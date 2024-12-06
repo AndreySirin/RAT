@@ -18,4 +18,6 @@ func main() {
 	fmt.Println("main хуейн, чет не понимаю")
 	fmt.Println("мне кажется понял")
 
+	fmt.Println("пусс ты самый классный")
+
 }
