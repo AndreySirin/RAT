@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("maining")
 
 	fmt.Println("xtndthnsq rjvvbn")
+
+	fmt.Println("добавил залупу пытаюсь сделать пулл реквест")
 }
